@@ -20,7 +20,7 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> ATM </td>
     <td> HS08TEST </td>
     <td> Java </td>
-    <td><a href="<a href="https://www.codechef.com/viewsolution/22683795"> Solution </a></td>
+    <td>https://www.codechef.com/viewsolution/22683795</td>
   </tr>
 
   <tr>

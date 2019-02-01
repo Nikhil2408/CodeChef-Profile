@@ -20,7 +20,7 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> ATM </td>
     <td> HS08TEST </td>
     <td> Java </td>
-    <td>https://www.codechef.com/viewsolution/22683795</td>
+    <td><a href="https://www.codechef.com/viewsolution/22683795"> Solution </a></td>
   </tr>
 
   <tr>
@@ -28,7 +28,7 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Enormous Input Test </td>
     <td> INTEST </td>
     <td> Java </td>
-    <td><a href="<a href="https://www.codechef.com/viewsolution/22683914"> Solution </a></td>
+    <td><a href="https://www.codechef.com/viewsolution/22683914"> Solution </a></td>
   </tr>
 
   <tr>
@@ -36,7 +36,7 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Small factorials </td>
     <td> FCTRL2 </td>
     <td> Java </td>
-    <td><a href="<a href="https://www.codechef.com/viewsolution/22690274"> Solution </a></td>
+    <td><a href="https://www.codechef.com/viewsolution/22690274"> Solution </a></td>
   </tr>
 
   <tr>
@@ -44,7 +44,7 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Add Two Numbers </td>
     <td> FLOW001 </td>
     <td> Java </td>
-    <td><a href="<a href="https://www.codechef.com/viewsolution/22690308"> Solution </a></td>
+    <td><a href="https://www.codechef.com/viewsolution/22690308"> Solution </a></td>
   </tr>
 
   <tr>
@@ -52,7 +52,7 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Sum of Digits </td>
     <td> FLOW006 </td>
     <td> Java </td>
-    <td><a href="<a href="https://www.codechef.com/viewsolution/22693087"> Solution </a></td>
+    <td><a href="https://www.codechef.com/viewsolution/22693087"> Solution </a></td>
   </tr>
 
   <tr>
@@ -60,7 +60,7 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Find Remainder </td>
     <td> FLOW002 </td>
     <td> Java </td>
-    <td><a href="<a href="https://www.codechef.com/viewsolution/22693160"> Solution </a></td>
+    <td><a href="https://www.codechef.com/viewsolution/22693160"> Solution </a></td>
   </tr>
       
 </table>

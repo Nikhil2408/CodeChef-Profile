@@ -62,5 +62,13 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22693160"> Solution </a></td>
   </tr>
+  
+  <tr>
+    <td> 7. </td>
+    <td> The Lead Game </td>
+    <td> TLG </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22767278"> Solution </a></td>
+  </tr>
       
 </table>

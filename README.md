@@ -70,5 +70,13 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22767278"> Solution </a></td>
   </tr>
+  
+  <tr>
+    <td> 8. </td>
+    <td> Number Mirror </td>
+    <td> START01 </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22767881"> Solution </a></td>
+  </tr>
       
 </table>

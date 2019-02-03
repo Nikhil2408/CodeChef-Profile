@@ -85,6 +85,14 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> MUFFINS3 </td>
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22820273"> Solution </a></td>
+  </tr>
+  
+   <tr>
+    <td> 10. </td>
+    <td> First and Last Digit </td>
+    <td> FLOW004 </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22820822"> Solution </a></td>
   </tr> 
       
 </table>

@@ -4,7 +4,7 @@
 
 This repository contains my solutions to CodeChef Problems.
 
-Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChef Profile</a>
+Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChef Profile.</a>
 
 <table align="center">
   <tr> 

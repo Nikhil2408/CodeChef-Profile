@@ -78,5 +78,13 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22767881"> Solution </a></td>
   </tr>
+  
+  <tr>
+    <td> 9. </td>
+    <td> Packaging Cupcakes </td>
+    <td> MUFFINS3 </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22820273"> Solution </a></td>
+  </tr> 
       
 </table>

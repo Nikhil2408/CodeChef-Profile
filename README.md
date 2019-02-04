@@ -102,5 +102,14 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22821220"> Solution </a></td>
   </tr>
+  
+  
+  <tr>
+    <td> 12. </td>
+    <td> Reverse The Number </td>
+    <td> FLOW007 </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22821383"> Solution </a></td>
+  </tr>
       
 </table>

@@ -93,6 +93,14 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> FLOW004 </td>
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22820822"> Solution </a></td>
-  </tr> 
+  </tr>
+  
+  <tr>
+    <td> 11. </td>
+    <td> Lucky Four </td>
+    <td> LUCKFOUR </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22821220"> Solution </a></td>
+  </tr>
       
 </table>

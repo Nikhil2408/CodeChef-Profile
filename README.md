@@ -16,7 +16,7 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
   </tr>
   
   <tr>
-  <th>Beginner</th>
+  <th> Beginner </th>
   </tr>
   
   <tr>
@@ -130,6 +130,18 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> FSQRT </td>
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22823263"> Solution </a></td>
+  </tr>
+  
+  <tr>
+  <th> Easy </th>
+  </tr>
+  
+  <tr>
+    <td> 1. </td>
+    <td> Life, the Universe, and Everything </td>
+    <td> TEST </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22901483"> Solution </a></td>
   </tr>
       
 </table>

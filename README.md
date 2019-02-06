@@ -119,5 +119,13 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22865591"> Solution </a></td>
   </tr>
+  
+  <tr>
+    <td> 14. </td>
+    <td> Finding Square Roots </td>
+    <td> FSQRT </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22823263"> Solution </a></td>
+  </tr>
       
 </table>

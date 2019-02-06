@@ -111,5 +111,13 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22821383"> Solution </a></td>
   </tr>
+  
+  <tr>
+    <td> 13. </td>
+    <td> Ciel and Receipt </td>
+    <td> CIELRCPT </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22865591"> Solution </a></td>
+  </tr>
       
 </table>

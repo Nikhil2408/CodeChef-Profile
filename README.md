@@ -16,6 +16,10 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
   </tr>
   
   <tr>
+  <th>Beginner</th>
+  </tr>
+  
+  <tr>
     <td> 1. </td>
     <td> ATM </td>
     <td> HS08TEST </td>

@@ -133,6 +133,14 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
   </tr>
   
   <tr>
+    <td> 15. </td>
+    <td> Chef and Remissness </td>
+    <td> REMISS </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/22823590"> Solution </a></td>
+  </tr>
+  
+  <tr>
   <th> Easy </th>
   </tr>
   

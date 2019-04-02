@@ -159,5 +159,13 @@ Have a look on my <a href="https://www.codechef.com/users/nikbansal1998">CodeChe
     <td> Java </td>
     <td><a href="https://www.codechef.com/viewsolution/22901483"> Solution </a></td>
   </tr>
+  
+  <tr>
+    <td> 2. </td>
+    <td> Racing Horses </td>
+    <td> HORSES </td>
+    <td> Java </td>
+    <td><a href="https://www.codechef.com/viewsolution/23756224"> Solution </a></td>
+  </tr>
       
 </table>

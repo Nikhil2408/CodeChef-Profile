@@ -1,4 +1,4 @@
-# CodeChef-Programs
+# CodeChef-Profile
 
 <a href="https://www.codechef.com/">CodeChef </a> is a <a href="https://en.wikipedia.org/wiki/Competitive_programming">competitive programming</a> website. It is a non-profit educational initiative of <a href="https://en.wikipedia.org/wiki/Directi">Directi</a>, aimed at providing a platform for students, young software professionals to practice, hone their programming skills through online contests.
 
